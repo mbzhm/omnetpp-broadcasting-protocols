@@ -1,4 +1,4 @@
-This project implements and simulates three broadcasting protocols in OMNeT++ on a randomly generated network with about 50 nodes:
+This project implements and simulates three broadcasting protocols in OMNeT++ on a randomly generated network with about 30 nodes:
 
 - **Flooding (naive approach)**: Every node forwards the packet upon first reception.
 - **Dynamic Source Routing (DSR - reactive approach)**: A route is discovered on-demand before packet forwarding.
