@@ -1,0 +1,48 @@
+version 3
+run General-0-20241125-10:53:07-12392
+attr configname General
+attr datetime 20241125-10:53:07
+attr datetimef 20241125-105307
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network RandomNetwork
+attr processid 12392
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network RandomNetwork
+config debug-on-errors true
+
+par RandomNetwork.source typename "\"SourceNode\""
+par RandomNetwork.node0 typename "\"Node\""
+par RandomNetwork.node1 typename "\"Node\""
+par RandomNetwork.node2 typename "\"Node\""
+par RandomNetwork.node3 typename "\"Node\""
+par RandomNetwork.node4 typename "\"LeafNode\""
+par RandomNetwork.node5 typename "\"Node\""
+par RandomNetwork.node6 typename "\"LeafNode\""
+par RandomNetwork.node7 typename "\"Node\""
+par RandomNetwork.node8 typename "\"LeafNode\""
+par RandomNetwork.node9 typename "\"Node\""
+par RandomNetwork.node10 typename "\"Node\""
+par RandomNetwork.node11 typename "\"LeafNode\""
+par RandomNetwork.node12 typename "\"LeafNode\""
+par RandomNetwork.node13 typename "\"LeafNode2\""
+par RandomNetwork.node14 typename "\"Node\""
+par RandomNetwork.node15 typename "\"LeafNode\""
+par RandomNetwork.node16 typename "\"LeafNode\""
+par RandomNetwork.node17 typename "\"LeafNode\""
+par RandomNetwork.node18 typename "\"LeafNode\""
+par RandomNetwork.node19 typename "\"LeafNode2\""
+par RandomNetwork.node20 typename "\"LeafNode\""
+par RandomNetwork.node21 typename "\"LeafNode\""
+par RandomNetwork.node22 typename "\"LeafNode2\""
+par RandomNetwork.node23 typename "\"LeafNode2\""
+par RandomNetwork typename "\"RandomNetwork\""
+

@@ -1,0 +1,60 @@
+version 3
+run RandomNetwork2-0-20241126-20:09:45-15252
+attr configname RandomNetwork2
+attr datetime 20241126-20:09:45
+attr datetimef 20241126-200945
+attr experiment RandomNetwork2
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network RandomNetwork2
+attr processid 15252
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network RandomNetwork2
+config debug-on-errors true
+
+par RandomNetwork2.source typename "\"BidirectionalSourceNode\""
+par RandomNetwork2.node0 typename "\"BidirectionalNode\""
+par RandomNetwork2.node1 typename "\"BidirectionalNode\""
+par RandomNetwork2.node2 typename "\"BidirectionalNode\""
+par RandomNetwork2.node3 typename "\"BidirectionalNode\""
+par RandomNetwork2.node4 typename "\"BidirectionalNode\""
+par RandomNetwork2.node5 typename "\"BidirectionalNode\""
+par RandomNetwork2.node6 typename "\"BidirectionalNode\""
+par RandomNetwork2.node7 typename "\"BidirectionalNode\""
+par RandomNetwork2.node8 typename "\"BidirectionalNode\""
+par RandomNetwork2.node9 typename "\"BidirectionalNode\""
+par RandomNetwork2.node10 typename "\"BidirectionalNode\""
+par RandomNetwork2.node11 typename "\"BidirectionalNode\""
+par RandomNetwork2.node12 typename "\"BidirectionalNode\""
+par RandomNetwork2.node13 typename "\"BidirectionalNode\""
+par RandomNetwork2.node14 typename "\"BidirectionalNode\""
+par RandomNetwork2.node15 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node16 typename "\"BidirectionalNode\""
+par RandomNetwork2.node17 typename "\"BidirectionalNode\""
+par RandomNetwork2.node18 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node19 typename "\"BidirectionalNode\""
+par RandomNetwork2.node20 typename "\"BidirectionalNode\""
+par RandomNetwork2.node21 typename "\"BidirectionalNode\""
+par RandomNetwork2.node22 typename "\"BidirectionalNode\""
+par RandomNetwork2.node23 typename "\"BidirectionalNode\""
+par RandomNetwork2.node24 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node25 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node26 typename "\"BidirectionalNode\""
+par RandomNetwork2.node27 typename "\"BidirectionalNode\""
+par RandomNetwork2.node28 typename "\"BidirectionalNode\""
+par RandomNetwork2.node29 typename "\"BidirectionalNode\""
+par RandomNetwork2.node30 typename "\"BidirectionalNode\""
+par RandomNetwork2.node31 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node32 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node33 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node34 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2.node35 typename "\"BidirectionalLeafNode\""
+par RandomNetwork2 typename "\"RandomNetwork2\""
+
